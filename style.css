@@ -1,0 +1,10 @@
+.highlight {
+    background-color: yellow;
+    border-radius: 3px;
+    padding: 2px;
+}
+.red-hl{
+    background-color:red;
+    border-radius: 3px;
+    padding : 2px
+}
